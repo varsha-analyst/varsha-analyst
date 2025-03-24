@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="varsha-analyst" /> </p>
 
-
 - 📝 I regularly write articles on [https://medium.com/@varshajaiswal.hjp](https://medium.com/@varshajaiswal.hjp)
 
 - 📫 How to reach me **varshajaiswal.hjp@gmail.com**
