@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@varshajaiswal.hjp](https://medium.com/@varshajaiswal.hjp)
 
-- 📫 How to reach me **varshajaiswal.hjp@gmail.com**
+- 📫 Email Id **varshajaiswal.hjp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
