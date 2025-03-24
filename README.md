@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Varsha Jaiswal</h1>
+<h2 align="left">Hi, I'm Varsha Jaiswal</h2>
 <h3 align="left">Data Analyst | Turning Insights into Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="varsha-analyst" /> </p>
